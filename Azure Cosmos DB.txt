@@ -1,0 +1,3 @@
+Database id   : fyedb
+Container id  : users
+Partition key : /id
